@@ -8,7 +8,7 @@ A public storage repository for all my Deep Rock Galactic mods, including source
   Blueprints from finished and WIP mods, viewable and editable in Unreal Engine 4.27.2. Requires placement into a [Community Modkit](https://github.com/DRG-Modding/Community-Modkit) uproject with [DRGLib](https://github.com/SamsDRGMods/DRGLib)'s developer files to function properly.
   
 ### BoltTypeIndicator:
-  WIP mod that adds the bolt type to a customizable widget on the HUD
+  WIP mod that adds the Boltshark crossbow bolt type to a customizable widget on the HUD.
   
 ### C4Maggots:
   WIP mod that makes magma maggots blow-up like c4 (or worse) on kill.
