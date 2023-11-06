@@ -1,7 +1,7 @@
-# nulls-drg-mods
+# [NULL]'s DRG Mods
 A public storage repository for all my mods, including WIPs and stuff not uploaded to mod.io.
 
-# UNCOOKED BLUEPRINTS
+# Uncooked Blueprints
   Blueprints from finished and WIP mods. Requires placement into a Community Modkit uproject with MudHub and DRGLib to function properly.
   BoltTypeIndicator: WIP mod that adds the bolt type to a cusotmizable widget on the HUD
   C4Maggots: WIP mod that makes magma maggots blow-up like c4 (or worse) on kill.
