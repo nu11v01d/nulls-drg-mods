@@ -1,5 +1,5 @@
 # [NULL]'s DRG Mods
-A public storage repository for all my Deep Rock Galactic mods, including WIPs and stuff not uploaded to [my Mod.io profile](https://mod.io/u/null26/)
+A public storage repository for all my Deep Rock Galactic mods, including WIPs and stuff not uploaded to [my Mod.io profile](https://mod.io/u/null26/).
 
 # Pak Files and Content Folders
   Pak files of my mods from Mod.io plus some unreleased and test content. Names match names on Mod.io. Cooked Content has been packaged by Unreal Engine 4.27.2. Uncooked Content has not been packaged and thus can be viewed in Unreal Engine 4.27.2. Uncooked audio content may require the Audio Template's files to fully work.
