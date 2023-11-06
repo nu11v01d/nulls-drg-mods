@@ -14,7 +14,7 @@ A public storage repository for all my Deep Rock Galactic mods, including WIPs a
   WIP mod that makes magma maggots blow-up like c4 (or worse) on kill.
   
 ### CPT:
-  Closer Promotion Terminal. A direct port of ArcticEcho's mod of the same name, taken from his source code.
+  [Closer Promotion Terminal (Updated)](https://mod.io/g/drg/m/closer-promotion-terminal-updated). A direct port of ArcticEcho's mod of the same name, taken from his source code.
   
 ### DotF:
   Dwarves of the Future. Abandoned WIP cosmetic project.
